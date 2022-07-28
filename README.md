@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cli135
-- 👀 I’m interested in computer graphics, text and language programs, and algorithms/data structures.
+- 👋 Hi, I’m Christopher Li (@cli135). I'm a junior CS undergraduate at JHU.
+- 👀 I’m interested in computer graphics, text and language programs, and algorithms/data structures!
 - 🌱 I’m currently learning DS and Algs, Machine Learning, and Computer graphics
 - 💞️ I’m looking to collaborate on any potential hackathon projects, espeically mlh.io hackathons!
 - 📫 How to reach me: please send me an email at licli019@gmail.com - thank you!
